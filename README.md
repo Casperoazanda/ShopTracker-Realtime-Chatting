@@ -12,6 +12,7 @@
     <br>
     <br>
     <img src="https://github.com/Casperoazanda/gif/blob/main/2.gif" alt="Demo example"/>
+    <img src="https://github.com/Casperoazanda/gif/blob/main/3.gif" alt="Demo example"/>
     <br>
     <br>
   </p>
